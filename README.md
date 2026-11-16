@@ -80,3 +80,6 @@ A implementação passou pelas seis etapas do teste de validação fornecido pel
 ## Observação
 
 Os pesos e vieses utilizados são os fornecidos pelo professor no arquivo `pesos_rede.json`. O projeto implementa somente a propagação direta, sem realizar treinamento ou ajuste dos parâmetros da rede.
+
+
+## DUPLA: YEHOSHUA VIEIRA - 20242130146 E HERMAN FERNANDES - 20242130147
