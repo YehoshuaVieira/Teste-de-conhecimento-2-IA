@@ -2,7 +2,7 @@
 Teste: implementação de uma rede neural já treinada (propagação direta)
 Matemática Computacional - Prof. Dr. Alexsandro O. A.
 
-Nome(s): ____________________________________________
+Nome(s): Yehoshua Vieira e Herman Fernandes
 
 Regras:
 - Use apenas Python, NumPy e pandas.
